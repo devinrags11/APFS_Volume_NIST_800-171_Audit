@@ -1,7 +1,7 @@
 # APFS_Volume_NIST_800-171_Audit
 # NIST 800-171 Audit: Clean Room (APFS Volume)
 ## Objective
-To establish a "Forensic Baseline" and eliminate "Con!guration Dri$" by auditing a fresh, secondary volume
+To establish a "Forensic Baseline" and eliminate "Coniguration Drift" by auditing a fresh, secondary volume
 free from third-party application interference.
 how to !ll this out with 2. Se...
 
